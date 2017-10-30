@@ -1,5 +1,6 @@
 // instead of writing the actual code, I prefer to share the path or idea to solve the problems, so all of us will have unique codes.
-
+// To open pgm file extention on windows, you have to download imagemagick https://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-8-Q16-x64-dll.exe
+// In linux you don't have any problem.
 
 #include <iostream>
 #include <cassert>
